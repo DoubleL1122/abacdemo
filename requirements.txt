@@ -1,0 +1,6 @@
+# Minimal requirements for the rule-based demo.
+# You can run the pipeline without these, except for YAML support.
+pyyaml>=6.0.1
+
+# Optional: install this if you want to parse real PDFs instead of the provided TXT.
+# pdfminer.six>=20231228

@@ -1,0 +1,1427 @@
+[
+  {
+    "policy_id": "DSLaw-cand-0",
+    "effect": "oblig",
+    "subject": [],
+    "action": [
+      "数",
+      "总"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第四条",
+      "offset": [
+        324,
+        348
+      ]
+    },
+    "explain": "主体可以数、总 "
+  },
+  {
+    "policy_id": "DSLaw-cand-1",
+    "effect": "oblig",
+    "subject": [],
+    "action": [
+      "数",
+      "理",
+      "法",
+      "、法",
+      "重社"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第八条",
+      "offset": [
+        759,
+        783
+      ]
+    },
+    "explain": "主体可以数、理、法、、法、重社 "
+  },
+  {
+    "policy_id": "DSLaw-cand-2",
+    "effect": "oblig",
+    "subject": [
+      {
+        "attr": "role",
+        "op": "in",
+        "value": [
+          "安",
+          "公",
+          "利",
+          "个"
+        ]
+      }
+    ],
+    "action": [
+      "社",
+      "害国",
+      "害"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第八条",
+      "offset": [
+        817,
+        848
+      ]
+    },
+    "explain": "安、公、利、个可以社、害国、害 "
+  },
+  {
+    "policy_id": "DSLaw-cand-3",
+    "effect": "oblig",
+    "subject": [],
+    "action": [
+      "部",
+      "投诉、举",
+      "。",
+      "的",
+      "法"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第十二条",
+      "offset": [
+        1166,
+        1195
+      ]
+    },
+    "explain": "主体可以部、投诉、举、。、的、法 "
+  },
+  {
+    "policy_id": "DSLaw-cand-4",
+    "effect": "oblig",
+    "subject": [],
+    "action": [
+      "主",
+      "投",
+      "、",
+      "人",
+      "以保",
+      "，"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第十二条",
+      "offset": [
+        1198,
+        1226
+      ]
+    },
+    "explain": "主体可以主、投、、、人、以保、， "
+  },
+  {
+    "policy_id": "DSLaw-cand-5",
+    "effect": "oblig",
+    "subject": [
+      {
+        "attr": "role",
+        "op": "in",
+        "value": [
+          "应",
+          "经"
+        ]
+      }
+    ],
+    "action": [
+      "以上",
+      "民",
+      "府",
+      "将",
+      "纳入本"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第十四条",
+      "offset": [
+        1371,
+        1398
+      ]
+    },
+    "explain": "应、经可以以上、民、府、将、纳入本 "
+  },
+  {
+    "policy_id": "DSLaw-cand-6",
+    "effect": "oblig",
+    "subject": [],
+    "action": [
+      "智",
+      "人",
+      "疾",
+      "，"
+    ],
+    "resource": [
+      {
+        "attr": "data_category",
+        "op": "in",
+        "value": [
+          "供"
+        ]
+      }
+    ],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第十五条",
+      "offset": [
+        1456,
+        1486
+      ]
+    },
+    "explain": "主体可以智、人、疾、， 供"
+  },
+  {
+    "policy_id": "DSLaw-cand-7",
+    "effect": "oblig",
+    "subject": [
+      {
+        "attr": "role",
+        "op": "in",
+        "value": [
+          "区",
+          "各"
+        ]
+      }
+    ],
+    "action": [
+      "部",
+      "应",
+      "数",
+      "本"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第二十一条",
+      "offset": [
+        2199,
+        2227
+      ]
+    },
+    "explain": "区、各可以部、应、数、本 "
+  },
+  {
+    "policy_id": "DSLaw-cand-8",
+    "effect": "oblig",
+    "subject": [],
+    "action": [
+      "主",
+      "法",
+      "动",
+      "预案",
+      "处置措"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第二十三条",
+      "offset": [
+        2406,
+        2437
+      ]
+    },
+    "explain": "主体可以主、法、动、预案、处置措 "
+  },
+  {
+    "policy_id": "DSLaw-cand-9",
+    "effect": "oblig",
+    "subject": [],
+    "action": [
+      "的",
+      "、",
+      "等",
+      "中",
+      "人民共和",
+      "采",
+      "歧",
+      "性",
+      "止、"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第二十六条",
+      "offset": [
+        2634,
+        2664
+      ]
+    },
+    "explain": "主体可以的、、、等、中、人民共和、采、歧、性、止、 "
+  },
+  {
+    "policy_id": "DSLaw-cand-10",
+    "effect": "oblig",
+    "subject": [],
+    "action": [
+      "者其",
+      "措",
+      "人民",
+      "和",
+      "可",
+      "根",
+      "实际情"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第二十六条",
+      "offset": [
+        2666,
+        2696
+      ]
+    },
+    "explain": "主体可以者其、措、人民、和、可、根、实际情 "
+  },
+  {
+    "policy_id": "DSLaw-cand-11",
+    "effect": "oblig",
+    "subject": [],
+    "action": [
+      "数",
+      "、法规"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第二十七条",
+      "offset": [
+        2735,
+        2757
+      ]
+    },
+    "explain": "主体可以数、、法规 "
+  },
+  {
+    "policy_id": "DSLaw-cand-12",
+    "effect": "oblig",
+    "subject": [
+      {
+        "attr": "role",
+        "op": "in",
+        "value": [
+          "展"
+        ]
+      }
+    ],
+    "action": [
+      "数",
+      "理",
+      "在",
+      "础上"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第二十七条",
+      "offset": [
+        2823,
+        2853
+      ]
+    },
+    "explain": "展可以数、理、在、础上 "
+  },
+  {
+    "policy_id": "DSLaw-cand-13",
+    "effect": "oblig",
+    "subject": [],
+    "action": [
+      "理",
+      "责人"
+    ],
+    "resource": [
+      {
+        "attr": "data_category",
+        "op": "in",
+        "value": [
+          "要数"
+        ]
+      }
+    ],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第二十七条",
+      "offset": [
+        2870,
+        2898
+      ]
+    },
+    "explain": "主体可以理、责人 要数"
+  },
+  {
+    "policy_id": "DSLaw-cand-14",
+    "effect": "oblig",
+    "subject": [
+      {
+        "attr": "role",
+        "op": "in",
+        "value": [
+          "究"
+        ]
+      }
+    ],
+    "action": [
+      "数",
+      "理",
+      "及研",
+      "开"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第二十八条",
+      "offset": [
+        2925,
+        2947
+      ]
+    },
+    "explain": "究可以数、理、及研、开 "
+  },
+  {
+    "policy_id": "DSLaw-cand-15",
+    "effect": "oblig",
+    "subject": [],
+    "action": [
+      "数",
+      "风"
+    ],
+    "resource": [
+      {
+        "attr": "data_category",
+        "op": "in",
+        "value": [
+          "数"
+        ]
+      }
+    ],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第二十九条",
+      "offset": [
+        2988,
+        3010
+      ]
+    },
+    "explain": "主体可以数、风 数"
+  },
+  {
+    "policy_id": "DSLaw-cand-16",
+    "effect": "oblig",
+    "subject": [
+      {
+        "attr": "role",
+        "op": "in",
+        "value": [
+          "数"
+        ]
+      }
+    ],
+    "action": [
+      "、漏",
+      "风",
+      "时",
+      "救措"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第二十九条",
+      "offset": [
+        3012,
+        3042
+      ]
+    },
+    "explain": "数可以、漏、风、时、救措 "
+  },
+  {
+    "policy_id": "DSLaw-cand-17",
+    "effect": "oblig",
+    "subject": [],
+    "action": [
+      "措",
+      "时",
+      "知用",
+      "主"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第二十九条",
+      "offset": [
+        3044,
+        3074
+      ]
+    },
+    "explain": "主体可以措、时、知用、主 "
+  },
+  {
+    "policy_id": "DSLaw-cand-18",
+    "effect": "oblig",
+    "subject": [],
+    "action": [
+      "理"
+    ],
+    "resource": [
+      {
+        "attr": "data_category",
+        "op": "in",
+        "value": [
+          "要数"
+        ]
+      }
+    ],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第三十条",
+      "offset": [
+        3089,
+        3111
+      ]
+    },
+    "explain": "主体可以理 要数"
+  },
+  {
+    "policy_id": "DSLaw-cand-19",
+    "effect": "oblig",
+    "subject": [
+      {
+        "attr": "role",
+        "op": "in",
+        "value": [
+          "告",
+          "当",
+          "处理",
+          "数"
+        ]
+      }
+    ],
+    "action": [
+      "评",
+      "报",
+      "的",
+      "类、"
+    ],
+    "resource": [
+      {
+        "attr": "data_category",
+        "op": "in",
+        "value": [
+          "要数"
+        ]
+      }
+    ],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第三十条",
+      "offset": [
+        3142,
+        3170
+      ]
+    },
+    "explain": "告、当、处理、数可以评、报、的、类、 要数"
+  },
+  {
+    "policy_id": "DSLaw-cand-20",
+    "effect": "oblig",
+    "subject": [
+      {
+        "attr": "role",
+        "op": "in",
+        "value": [
+          "组",
+          "正"
+        ]
+      }
+    ],
+    "action": [
+      "个"
+    ],
+    "resource": [
+      {
+        "attr": "data_category",
+        "op": "in",
+        "value": [
+          "何"
+        ]
+      }
+    ],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第三十二条",
+      "offset": [
+        3347,
+        3369
+      ]
+    },
+    "explain": "组、正可以个 何"
+  },
+  {
+    "policy_id": "DSLaw-cand-21",
+    "effect": "oblig",
+    "subject": [],
+    "action": [
+      "取或",
+      "以其",
+      "取数"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第三十二条",
+      "offset": [
+        3371,
+        3392
+      ]
+    },
+    "explain": "主体可以取或、以其、取数 "
+  },
+  {
+    "policy_id": "DSLaw-cand-22",
+    "effect": "oblig",
+    "subject": [
+      {
+        "attr": "role",
+        "op": "in",
+        "value": [
+          "目",
+          "范",
+          "规定"
+        ]
+      }
+    ],
+    "action": [
+      "、行",
+      "法规对收",
+      "使",
+      "的"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第三十二条",
+      "offset": [
+        3395,
+        3423
+      ]
+    },
+    "explain": "目、范、规定可以、行、法规对收、使、的 "
+  },
+  {
+    "policy_id": "DSLaw-cand-23",
+    "effect": "oblig",
+    "subject": [],
+    "action": [
+      "数",
+      "服"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第三十三条",
+      "offset": [
+        3460,
+        3482
+      ]
+    },
+    "explain": "主体可以数、服 "
+  },
+  {
+    "policy_id": "DSLaw-cand-24",
+    "effect": "oblig",
+    "subject": [],
+    "action": [
+      "、行",
+      "法",
+      "规"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第三十四条",
+      "offset": [
+        3529,
+        3551
+      ]
+    },
+    "explain": "主体可以、行、法、规 "
+  },
+  {
+    "policy_id": "DSLaw-cand-25",
+    "effect": "oblig",
+    "subject": [],
+    "action": [
+      "，",
+      "者"
+    ],
+    "resource": [
+      {
+        "attr": "data_category",
+        "op": "in",
+        "value": [
+          "行"
+        ]
+      }
+    ],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第三十四条",
+      "offset": [
+        3553,
+        3574
+      ]
+    },
+    "explain": "主体可以，、者 行"
+  },
+  {
+    "policy_id": "DSLaw-cand-26",
+    "effect": "oblig",
+    "subject": [],
+    "action": [
+      "关规"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第三十五条",
+      "offset": [
+        3615,
+        3645
+      ]
+    },
+    "explain": "主体可以关规 "
+  },
+  {
+    "policy_id": "DSLaw-cand-27",
+    "effect": "oblig",
+    "subject": [],
+    "action": [
+      "组",
+      "个",
+      "予以配"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第三十五条",
+      "offset": [
+        3647,
+        3669
+      ]
+    },
+    "explain": "主体可以组、个、予以配 "
+  },
+  {
+    "policy_id": "DSLaw-cand-28",
+    "effect": "oblig",
+    "subject": [],
+    "action": [
+      "关批",
+      "个",
+      "司",
+      "执"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第三十六条",
+      "offset": [
+        3766,
+        3796
+      ]
+    },
+    "explain": "主体可以关批、个、司、执 "
+  },
+  {
+    "policy_id": "DSLaw-cand-29",
+    "effect": "oblig",
+    "subject": [
+      {
+        "attr": "role",
+        "op": "in",
+        "value": [
+          "定职",
+          "范",
+          "规"
+        ]
+      }
+    ],
+    "action": [
+      "行",
+      "责",
+      "、行政法",
+      "规定的",
+      "和"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第三十八条",
+      "offset": [
+        3928,
+        3958
+      ]
+    },
+    "explain": "定职、范、规可以行、责、、行政法、规定的、和 "
+  },
+  {
+    "policy_id": "DSLaw-cand-30",
+    "effect": "oblig",
+    "subject": [
+      {
+        "attr": "role",
+        "op": "in",
+        "value": [
+          "密"
+        ]
+      }
+    ],
+    "action": [
+      "法",
+      "以保",
+      "露或",
+      "非",
+      "他",
+      "。"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第三十八条",
+      "offset": [
+        3992,
+        4023
+      ]
+    },
+    "explain": "密可以法、以保、露或、非、他、。 "
+  },
+  {
+    "policy_id": "DSLaw-cand-31",
+    "effect": "oblig",
+    "subject": [
+      {
+        "attr": "role",
+        "op": "in",
+        "value": [
+          "规"
+        ]
+      }
+    ],
+    "action": [
+      "关",
+      "、行",
+      "法",
+      "的"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第三十九条",
+      "offset": [
+        4033,
+        4055
+      ]
+    },
+    "explain": "规可以关、、行、法、的 "
+  },
+  {
+    "policy_id": "DSLaw-cand-32",
+    "effect": "oblig",
+    "subject": [],
+    "action": [
+      "的",
+      "监"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第四十条",
+      "offset": [
+        4121,
+        4151
+      ]
+    },
+    "explain": "主体可以的、监 "
+  },
+  {
+    "policy_id": "DSLaw-cand-33",
+    "effect": "oblig",
+    "subject": [],
+    "action": [
+      "义",
+      "、法规"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第四十条",
+      "offset": [
+        4153,
+        4183
+      ]
+    },
+    "explain": "主体可以义、、法规 "
+  },
+  {
+    "policy_id": "DSLaw-cand-34",
+    "effect": "oblig",
+    "subject": [
+      {
+        "attr": "role",
+        "op": "in",
+        "value": [
+          "使",
+          "泄"
+        ]
+      }
+    ],
+    "action": [
+      "务，",
+      "自",
+      "存、",
+      "用、",
+      "露或",
+      "他"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第四十条",
+      "offset": [
+        4185,
+        4215
+      ]
+    },
+    "explain": "使、泄可以务，、自、存、、用、、露或、他 "
+  },
+  {
+    "policy_id": "DSLaw-cand-35",
+    "effect": "oblig",
+    "subject": [
+      {
+        "attr": "role",
+        "op": "in",
+        "value": [
+          "公平",
+          "便",
+          "原"
+        ]
+      }
+    ],
+    "action": [
+      "公",
+      "，"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第四十一条",
+      "offset": [
+        4233,
+        4255
+      ]
+    },
+    "explain": "公平、便、原可以公、， "
+  },
+  {
+    "policy_id": "DSLaw-cand-36",
+    "effect": "oblig",
+    "subject": [
+      {
+        "attr": "role",
+        "op": "in",
+        "value": [
+          "时",
+          "准",
+          "开政",
+          "的"
+        ]
+      }
+    ],
+    "action": [
+      "地",
+      "法",
+      "公",
+      "除外。"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第四十一条",
+      "offset": [
+        4257,
+        4282
+      ]
+    },
+    "explain": "时、准、开政、的可以地、法、公、除外。 "
+  },
+  {
+    "policy_id": "DSLaw-cand-37",
+    "effect": "oblig",
+    "subject": [
+      {
+        "attr": "role",
+        "op": "in",
+        "value": [
+          "较"
+        ]
+      }
+    ],
+    "action": [
+      "按"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第四十四条",
+      "offset": [
+        4453,
+        4483
+      ]
+    },
+    "explain": "较可以按 "
+  },
+  {
+    "policy_id": "DSLaw-cand-38",
+    "effect": "oblig",
+    "subject": [
+      {
+        "attr": "role",
+        "op": "in",
+        "value": [
+          "予"
+        ]
+      }
+    ],
+    "action": [
+      "改",
+      "警",
+      "并处五",
+      "元",
+      "上五十",
+      "下",
+      "款"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第四十五条",
+      "offset": [
+        4587,
+        4618
+      ]
+    },
+    "explain": "予可以改、警、并处五、元、上五十、下、款 "
+  },
+  {
+    "policy_id": "DSLaw-cand-39",
+    "effect": "oblig",
+    "subject": [],
+    "action": [
+      "责的",
+      "处",
+      "元",
+      "上十"
+    ],
+    "resource": [
+      {
+        "attr": "data_category",
+        "op": "in",
+        "value": [
+          "直"
+        ]
+      }
+    ],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第四十五条",
+      "offset": [
+        4620,
+        4649
+      ]
+    },
+    "explain": "主体可以责的、处、元、上十 直"
+  },
+  {
+    "policy_id": "DSLaw-cand-40",
+    "effect": "oblig",
+    "subject": [
+      {
+        "attr": "role",
+        "op": "in",
+        "value": [
+          "业"
+        ]
+      }
+    ],
+    "action": [
+      "上二",
+      "万元",
+      "下",
+      "责",
+      "暂停相",
+      "业",
+      "、"
+    ],
+    "resource": [
+      {
+        "attr": "data_category",
+        "op": "in",
+        "value": [
+          "元"
+        ]
+      }
+    ],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第四十五条",
+      "offset": [
+        4683,
+        4713
+      ]
+    },
+    "explain": "业可以上二、万元、下、责、暂停相、业、、 元"
+  },
+  {
+    "policy_id": "DSLaw-cand-41",
+    "effect": "oblig",
+    "subject": [],
+    "action": [
+      "主",
+      "部",
+      "改",
+      "予警",
+      "并处十",
+      "元",
+      "上一",
+      "万元"
+    ],
+    "resource": [
+      {
+        "attr": "data_category",
+        "op": "in",
+        "value": [
+          "有"
+        ]
+      }
+    ],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第四十六条",
+      "offset": [
+        4917,
+        4947
+      ]
+    },
+    "explain": "主体可以主、部、改、予警、并处十、元、上一、万元 有"
+  },
+  {
+    "policy_id": "DSLaw-cand-42",
+    "effect": "oblig",
+    "subject": [
+      {
+        "attr": "role",
+        "op": "in",
+        "value": [
+          "责"
+        ]
+      }
+    ],
+    "action": [
+      "责的",
+      "人",
+      "处一",
+      "元"
+    ],
+    "resource": [
+      {
+        "attr": "data_category",
+        "op": "in",
+        "value": [
+          "下"
+        ]
+      }
+    ],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第四十六条",
+      "offset": [
+        4949,
+        4979
+      ]
+    },
+    "explain": "责可以责的、人、处一、元 下"
+  },
+  {
+    "policy_id": "DSLaw-cand-43",
+    "effect": "oblig",
+    "subject": [
+      {
+        "attr": "role",
+        "op": "in",
+        "value": [
+          "吊"
+        ]
+      }
+    ],
+    "action": [
+      "以责",
+      "暂停相",
+      "业",
+      "、",
+      "销相",
+      "可证或"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第四十六条",
+      "offset": [
+        5013,
+        5043
+      ]
+    },
+    "explain": "吊可以以责、暂停相、业、、、销相、可证或 "
+  },
+  {
+    "policy_id": "DSLaw-cand-44",
+    "effect": "oblig",
+    "subject": [],
+    "action": [
+      "，",
+      "十万元",
+      "上一百万元",
+      "下罚款",
+      "责",
+      "暂停相"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第四十七条",
+      "offset": [
+        5192,
+        5222
+      ]
+    },
+    "explain": "主体可以，、十万元、上一百万元、下罚款、责、暂停相 "
+  },
+  {
+    "policy_id": "DSLaw-cand-45",
+    "effect": "oblig",
+    "subject": [],
+    "action": [
+      "本法第三十六条规定，",
+      "主",
+      "关批准"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第四十八条",
+      "offset": [
+        5389,
+        5417
+      ]
+    },
+    "explain": "主体可以本法第三十六条规定，、主、关批准 "
+  },
+  {
+    "policy_id": "DSLaw-cand-46",
+    "effect": "oblig",
+    "subject": [],
+    "action": [
+      "数",
+      "，",
+      "主",
+      "警",
+      "并",
+      "十",
+      "元",
+      "上"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第四十八条",
+      "offset": [
+        5419,
+        5449
+      ]
+    },
+    "explain": "主体可以数、，、主、警、并、十、元、上 "
+  },
+  {
+    "policy_id": "DSLaw-cand-47",
+    "effect": "oblig",
+    "subject": [],
+    "action": [
+      "下",
+      "责的"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第四十八条",
+      "offset": [
+        5451,
+        5481
+      ]
+    },
+    "explain": "主体可以下、责的 "
+  },
+  {
+    "policy_id": "DSLaw-cand-48",
+    "effect": "oblig",
+    "subject": [
+      {
+        "attr": "role",
+        "op": "in",
+        "value": [
+          "停",
+          "吊"
+        ]
+      }
+    ],
+    "action": [
+      "下",
+      "以责令暂停相",
+      "业",
+      "、",
+      "销相"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第四十八条",
+      "offset": [
+        5515,
+        5545
+      ]
+    },
+    "explain": "停、吊可以下、以责令暂停相、业、、、销相 "
+  },
+  {
+    "policy_id": "DSLaw-cand-49",
+    "effect": "oblig",
+    "subject": [],
+    "action": [
+      "法",
+      "、行"
+    ],
+    "resource": [],
+    "condition": [],
+    "exception": [],
+    "provenance": {
+      "doc": "DSLaw.txt",
+      "article": "第五十三条",
+      "offset": [
+        5984,
+        6008
+      ]
+    },
+    "explain": "主体可以法、、行 "
+  }
+]
